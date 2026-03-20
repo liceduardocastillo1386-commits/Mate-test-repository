@@ -1,0 +1,23 @@
+{
+  "name": "mate-test-repository",
+  "version": "1.0.0",
+  "description": "I am studying at mate academy !",
+  "homepage": "https://github.com/liceduardocastillo1386-commits/Mate-test-repository#readme",
+  "bugs": {
+    "url": "https://github.com/liceduardocastillo1386-commits/Mate-test-repository/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liceduardocastillo1386-commits/Mate-test-repository.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "espress": "^0.0.0"
+  }
+}
